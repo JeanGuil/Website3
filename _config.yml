@@ -25,7 +25,8 @@ search: true
 
 
 author:
-  name   : "First Lastname"
+  name   : "Jean Guillaume, Ph.D."
+  email  : "jaguillaume@nsu.edu"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
